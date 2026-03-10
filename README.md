@@ -1,5 +1,5 @@
 # CLI OS
-
+### In development
 A minimal, CLI-based operating system built from scratch in C and x86 Assembly, targeting the x86 architecture.
 
 ---
